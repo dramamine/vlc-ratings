@@ -1,6 +1,8 @@
 # vlc-ratings
 Ratings extension for VLC media player
 
+dramamine fork: fixed a bug causing data file to be overwritten if there's no config file.
+
 <!-- md-toc-begin -->
 * [About](#about)
 * [Showing the "Ratings" column in the playlist](#showing-the-ratings-column-in-the-playlist)
